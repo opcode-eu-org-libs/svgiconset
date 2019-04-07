@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 66.323021 68.029999" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="d">
+   <feGaussianBlur stdDeviation="1.2625"/>
+  </filter>
+  <filter id="e" x="-.04161" y="-.1075" width="1.0832" height="1.215">
+   <feGaussianBlur stdDeviation=".5375"/>
+  </filter>
+  <linearGradient id="a">
+   <stop stop-color="#7c7c7c" offset="0"/>
+   <stop stop-color="#e6e3e3" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="186.01" x2="186.76" y1="-214.19" y2="-260.49" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="c" x1="200.64" x2="192.52" y1="-254.45" y2="-246.04" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+ </defs>
+ <g transform="translate(-153.27 263.16)">
+  <path d="m170.56-255.14v56h45v-40.108l-16.023-15.892z" filter="url(#d)" opacity=".6" stroke="#000" stroke-dashoffset="117.54" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m163.56-262.14v56h45v-40.108l-16.023-15.892z" fill="url(#b)" stroke="#000" stroke-dashoffset="117.54" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m155.56-251.14h29a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-29a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1" filter="url(#e)"/>
+  <path transform="translate(-284.37 -408.39)" d="m478 161.25c-3.4777-1.3759 1.8547 33.049 15 34-12.991-2.2906-40.731-12.262-44 6 11.19-4.6489 20.083-26.734 29-40z" fill="none" stroke="#f00" stroke-linejoin="bevel" stroke-width="3"/>
+  <path d="m208.56-246.14-15.989-15.989v15.989h15.989z" fill="url(#c)" stroke="#000" stroke-dashoffset="117.54" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m163.56-262.14v56h45v-40.108l-16.023-15.892z" fill="none" stroke="#000" stroke-dashoffset="117.54" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="m155.56-251.14h29a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-29a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1" fill="#f00"/>
+  <text transform="scale(.896,1.1161)" x="189.47539" y="-215.91681" fill="#fff" font-family="Sans" font-size="10.208" font-weight="bold" letter-spacing="0" text-anchor="middle" word-spacing="0">
+   <tspan x="189.47539" y="-215.91681">PDF</tspan>
+  </text>
+ </g>
+</svg>
