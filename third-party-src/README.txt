@@ -121,3 +121,5 @@ Archived files (for future usage):
 	* https://commons.wikimedia.org/wiki/File:Openlogo-debianV2.svg
 		* Debian Project / Software in the Public Interest
 		* GNU LGPL / CC-BY-SA
+	* https://commons.wikimedia.org/wiki/File:Ethernet.svg
+		* Public Domain (CC0)
