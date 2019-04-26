@@ -12,7 +12,7 @@ Usage
 
 To set directory icon you should create `.directory` file inside it:
 
-```
+```bash
 echo '[Desktop Entry]' > .directory
 echo 'Icon=./.directory.png' >> .directory
 ```
