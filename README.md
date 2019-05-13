@@ -17,7 +17,7 @@ echo '[Desktop Entry]' > .directory
 echo 'Icon=./.directory.png' >> .directory
 ```
 
-Next you should export as PNG your favorite icon and move it to location
+Next you should export your favorite icon as PNG and move it to location
 specified in `.directory` file. In this example it's `.directory.png`
 file in directory which should have an icon.
 
@@ -25,7 +25,7 @@ file in directory which should have an icon.
 License
 -------
 
-Copyright (C) 2009-2019 Robert Paciorek <rrp@opcode.eu.org>
+Copyright (C) 2009-2019 Robert Ryszard Paciorek <rrp@opcode.eu.org>
 
 This work use GNU GPL licensed items from from various authors - see
 [third-party-src/README.txt](third-party-src/README.txt) for more details.
