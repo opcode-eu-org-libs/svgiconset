@@ -49,6 +49,9 @@ Used files:
 	* https://commons.wikimedia.org/wiki/File:Git-logo-orange.svg
 		* Jason Long
 		* CC-BY
+	* https://commons.wikimedia.org/wiki/File:Oxygen480-devices-hidef-media-optical-video.svg
+		* The Oxygen Team, KDE
+		* GNU LGPL
 
 Archived files (for future usage):
 	* http://en.wikipedia.org/wiki/File:Stop_sign_light_red.svg
