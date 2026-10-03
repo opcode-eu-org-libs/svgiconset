@@ -1,0 +1,7 @@
+SPDX-FileCopyrightText: Robert Ryszard Paciorek <rrp@opcode.eu.org>
+SPDX-FileCopyrightText: KDE Artists
+SPDX-FileCopyrightText: Everaldo Coelho (YellowIcon)
+SPDX-FileCopyrightText: Andrew Enyart (arenyart)
+SPDX-FileCopyrightText: Ales Hvezda and gEDA Contributors <geda-dev@geda.seul.org>
+SPDX-License-Identifier: GPL-2.0-or-later
+Based on: /third-party-src/kdelibs-data_3.5--crystalsvg/places/folder-1.svg  /third-party-src/others/application-x-geda-gsch2pcb-project.svg  /third-party-src/kdelibs-data_3.5--crystalsvg/crsc-device-memory.svgz  /third-party-src/kdelibs-data_3.5--crystalsvg/places/exec-1.svg  /third-party-src/others/38254-new_folder-12.svg

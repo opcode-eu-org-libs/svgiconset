@@ -1,0 +1,4 @@
+SPDX-FileCopyrightText: KDE Artists
+SPDX-FileCopyrightText: Everaldo Coelho (YellowIcon)
+SPDX-License-Identifier: LicenseRef-LGPL-2.1-CRYSTALSVG
+Source: `pics/crystalsvg/*.svgz` in https://archive.debian.org/debian/pool/main/k/kdelibs/kdelibs_3.5.5a.dfsg.1.orig.tar.gz

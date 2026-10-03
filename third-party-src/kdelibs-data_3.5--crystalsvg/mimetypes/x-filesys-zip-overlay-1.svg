@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 10.0.3, SVG Export Plug-In . SVG Version: 3.0.0 Build 77)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="128" height="128" viewBox="0 0 128 128" overflow="visible" enable-background="new 0 0 128 128" xml:space="preserve">
+	<g id="Layer_1">
+		<g>
+			<g>
+				<radialGradient id="XMLID_1_" cx="15.001" cy="35.9468" r="26.9286" fx="15.001" fy="35.9468" gradientUnits="userSpaceOnUse">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#D200DE"/>
+					<a:midPointStop  offset="0" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="1" style="stop-color:#D200DE"/>
+				</radialGradient>
+				<path fill="url(#XMLID_1_)" d="M27.345,27.345V0.787L0.787,27.345H27.345z"/>
+				<path fill="#7E00B3" d="M26.947,0.391L0.391,26.947c-0.161,0.161-0.208,0.402-0.122,0.612c0.087,0.209,0.292,0.346,0.519,0.346
+					h26.558c0.31,0,0.561-0.251,0.561-0.561V0.787c0-0.227-0.137-0.432-0.346-0.519C27.35,0.183,27.107,0.229,26.947,0.391z
+					 M26.783,2.142c0,2.386,0,23.623,0,24.642c-1.019,0-22.256,0-24.642,0C3.854,25.07,25.07,3.854,26.783,2.142z"/>
+				
+					<radialGradient id="XMLID_2_" cx="16.7427" cy="30.3975" r="18.0326" fx="16.7427" fy="30.3975" gradientUnits="userSpaceOnUse">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#D200DE"/>
+					<a:midPointStop  offset="0" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="1" style="stop-color:#D200DE"/>
+				</radialGradient>
+				<path fill="url(#XMLID_2_)" d="M11.103,20.761c1.093,0.142,2.218,0.224,3.37,0.224c3.93,0,7.56-0.865,10.536-2.322V6.854
+					L11.103,20.761z"/>
+				<linearGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" x1="18.0557" y1="3.312" x2="18.0557" y2="37.536">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#D200DE"/>
+					<a:midPointStop  offset="0" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="1" style="stop-color:#D200DE"/>
+				</linearGradient>
+				<path fill="url(#XMLID_3_)" d="M11.103,20.761c1.093,0.142,2.218,0.224,3.37,0.224c3.93,0,7.56-0.865,10.536-2.322V6.854
+					L11.103,20.761z"/>
+			</g>
+			<g>
+				
+					<radialGradient id="XMLID_4_" cx="107.0137" cy="129.8311" r="28.0532" fx="107.0137" fy="129.8311" gradientUnits="userSpaceOnUse">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#D200DE"/>
+					<a:midPointStop  offset="0" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="1" style="stop-color:#D200DE"/>
+				</radialGradient>
+				<path fill="url(#XMLID_4_)" d="M100.656,100.656v26.557l26.557-26.557H100.656z"/>
+				<path fill="#7E00B3" d="M100.656,100.095c-0.311,0-0.562,0.251-0.562,0.562v26.557c0,0.228,0.137,0.432,0.347,0.519
+					c0.209,0.087,0.451,0.039,0.611-0.122l26.557-26.557c0.16-0.16,0.209-0.402,0.122-0.611c-0.087-0.21-0.291-0.347-0.519-0.347
+					H100.656z M125.858,101.217c-1.714,1.713-22.928,22.928-24.642,24.642c0-2.386,0-23.622,0-24.642
+					C102.236,101.217,123.473,101.217,125.858,101.217z"/>
+				
+					<radialGradient id="XMLID_5_" cx="107.4043" cy="123.2148" r="19.2926" fx="107.4043" fy="123.2148" gradientUnits="userSpaceOnUse">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#D200DE"/>
+					<a:midPointStop  offset="0" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="1" style="stop-color:#D200DE"/>
+				</radialGradient>
+				<path fill="url(#XMLID_5_)" d="M121.295,103.147h-0.674c-0.121,0.364-0.249,0.726-0.405,1.079L121.295,103.147z"/>
+				<linearGradient id="XMLID_6_" gradientUnits="userSpaceOnUse" x1="111.5879" y1="97.0488" x2="111.5879" y2="121.7347">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="1" style="stop-color:#D200DE"/>
+					<a:midPointStop  offset="0" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="0.5" style="stop-color:#FFFFFF"/>
+					<a:midPointStop  offset="1" style="stop-color:#D200DE"/>
+				</linearGradient>
+				<path fill="url(#XMLID_6_)" d="M103.044,102.532v10.934c3.49-0.25,6.702-1.181,9.412-2.602c3.383-1.773,5.969-4.313,7.283-7.283
+					c0.151-0.344,0.276-0.695,0.394-1.049H103.044z"/>
+			</g>
+		</g>
+		<path fill="none" d="M128,128H0V0h128V128z"/>
+	</g>
+</svg>

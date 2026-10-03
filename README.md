@@ -1,10 +1,18 @@
+<!--
+SPDX-FileCopyrightText: Robert Ryszard Paciorek <rrp@opcode.eu.org>
+SPDX-License-Identifier: MIT
+-->
+
 About this repository
 =====================
 
-This is set of icons for "special" folders.
+This repository contains:
 
-Repository also contains (GNU GPL or public domain) objects used to create
-them and some other potential useful icons in [third-party-src](third-party-src).
+1. custom icons for "special" folders - see [`folders`](folders) directory
+2. custom icons for usage in html documents - see [`other`](other) directory
+3. archived icons (from various projects) for supplementary use - see [`third-party-src`](third-party-src) directory
+	* this also includes a few non-SVG icons - see [`third-party-src/png`](third-party-src/png) directory
+4. icons and some other graphics used to created custom icons - see [`third-party-src`](third-party-src) directory
 
 
 Usage

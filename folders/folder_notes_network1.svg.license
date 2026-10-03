@@ -1,0 +1,7 @@
+SPDX-FileCopyrightText: Robert Ryszard Paciorek <rrp@opcode.eu.org>
+SPDX-FileCopyrightText: KDE Artists
+SPDX-FileCopyrightText: Everaldo Coelho (YellowIcon)
+SPDX-FileCopyrightText: GNOME Project (https://www.gnome.org/)
+SPDX-FileCopyrightText: GNOME icon artists (https://github.com/GNOME/gnome-icon-theme/blob/master/AUTHORS)
+SPDX-License-Identifier: LGPL-3.0-or-later
+Based on: /third-party-src/kdelibs-data_3.5--crystalsvg/places/folder-1.svg  /third-party-src/kdelibs-data_3.5--crystalsvg/places/folder-man-2.svg  /third-party-src/gnome/Gnome-preferences-system-network.svg
